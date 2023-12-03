@@ -1,0 +1,14 @@
+C:\Users\gasim\source\repos\BuilderDesignPattern_Task\BuilderDesignPattern_Task\bin\Debug\net8.0\BuilderDesignPattern_Task.exe
+C:\Users\gasim\source\repos\BuilderDesignPattern_Task\BuilderDesignPattern_Task\bin\Debug\net8.0\BuilderDesignPattern_Task.deps.json
+C:\Users\gasim\source\repos\BuilderDesignPattern_Task\BuilderDesignPattern_Task\bin\Debug\net8.0\BuilderDesignPattern_Task.runtimeconfig.json
+C:\Users\gasim\source\repos\BuilderDesignPattern_Task\BuilderDesignPattern_Task\bin\Debug\net8.0\BuilderDesignPattern_Task.dll
+C:\Users\gasim\source\repos\BuilderDesignPattern_Task\BuilderDesignPattern_Task\bin\Debug\net8.0\BuilderDesignPattern_Task.pdb
+C:\Users\gasim\source\repos\BuilderDesignPattern_Task\BuilderDesignPattern_Task\obj\Debug\net8.0\BuilderDesignPattern_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gasim\source\repos\BuilderDesignPattern_Task\BuilderDesignPattern_Task\obj\Debug\net8.0\BuilderDesignPattern_Task.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\BuilderDesignPattern_Task\BuilderDesignPattern_Task\obj\Debug\net8.0\BuilderDesignPattern_Task.AssemblyInfo.cs
+C:\Users\gasim\source\repos\BuilderDesignPattern_Task\BuilderDesignPattern_Task\obj\Debug\net8.0\BuilderDesignPattern_Task.csproj.CoreCompileInputs.cache
+C:\Users\gasim\source\repos\BuilderDesignPattern_Task\BuilderDesignPattern_Task\obj\Debug\net8.0\BuilderDesignPattern_Task.dll
+C:\Users\gasim\source\repos\BuilderDesignPattern_Task\BuilderDesignPattern_Task\obj\Debug\net8.0\refint\BuilderDesignPattern_Task.dll
+C:\Users\gasim\source\repos\BuilderDesignPattern_Task\BuilderDesignPattern_Task\obj\Debug\net8.0\BuilderDesignPattern_Task.pdb
+C:\Users\gasim\source\repos\BuilderDesignPattern_Task\BuilderDesignPattern_Task\obj\Debug\net8.0\BuilderDesignPattern_Task.genruntimeconfig.cache
+C:\Users\gasim\source\repos\BuilderDesignPattern_Task\BuilderDesignPattern_Task\obj\Debug\net8.0\ref\BuilderDesignPattern_Task.dll
